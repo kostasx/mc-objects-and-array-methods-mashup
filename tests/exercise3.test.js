@@ -1,5 +1,7 @@
+'use strict'
+
 var test = require('tape')
-var solution = require('./exercise3.js')
+var solution = require('../exercise3.js')
 var sinon = require('sinon')
 
 var numbersArr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]

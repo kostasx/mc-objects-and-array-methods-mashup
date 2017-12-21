@@ -1,3 +1,8 @@
+'use strict'
+
+// INSTRUCTIONS
+// DO NOT UNCOMMENT THIS CODE
+//
 // Now let's make something new entirely! We're going to make filterMap.
 //
 // This is a function which takes:

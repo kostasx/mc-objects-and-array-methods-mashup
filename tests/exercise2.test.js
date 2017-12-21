@@ -1,7 +1,7 @@
 'use strict'
 
 const tape = require('tape')
-const fns = require('./exercise2.js')
+const fns = require('../exercise2.js')
 
 const buildings = {
   14358: {

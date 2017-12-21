@@ -1,4 +1,4 @@
-# Array methods, reduce, and you
+# Array methods, reduce, and object manipulation
 
 Authors: Zeliooes (Zooey & Elias)
 
@@ -7,7 +7,7 @@ This morning challenge is a mash up of the following two mcs:
 * [mc-array-methods-reduce](https://github.com/foundersandcoders/mc-array-methods-reduce)
 * [mc-objects-and-arrays](https://github.com/foundersandcoders/mc-objects-and-arrays)
 
-## Learning Outcomes
+## Learning Outcomes :dizzy:
 
 * To understand how a number of useful array methods work
 * To understand how reduce works
@@ -81,7 +81,7 @@ Use array methods like:
 * uncomment the tests in `exercise2.tests.js`
 * run `npm test` and look at the results
 
-## SUPER BONUS EXTRA LEVEL
+## :star: SUPER BONUS EXTRA LEVEL :star:
 
 Woah, did you make it this far? We're going to return to our super trusty `.reduce` method to make something new! We're going to make filterMap.
 

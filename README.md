@@ -18,9 +18,7 @@ This morning challenge is a mash up of the following two mcs:
 
 This is a morning challenge designed to make you more confident using array methods in javascript, and apply this knowlege to manipulate objects in fun, interesting and safe ways.
 
-## Let's Get Comfortable
-
-### Challenge 1
+## Let's Get Comfortable - Challenge 1
 
 Array methods are used day in, day out by javascript developers, so you want to be as comfortable with them as a summers breeze. In this first challenge you are going to recreate array methods using reduce.
 
@@ -52,9 +50,7 @@ The only way arrays can be iterated over is reduce
 
 _As a note, rewriting these array methods yourself with reduce is not good practice for code you're going to use, this is more just a learning exercise. It's especially sub-optimal for `some` and `every` (can you think of why?)._
 
-## Let's Get Manipulating
-
-### Challenge 2
+## Let's Get Manipulating - Challenge 2
 
 Your next challenge is to use your new found array knowlege to manipulate data.
 
@@ -85,9 +81,7 @@ Use array methods like:
 * uncomment the tests in `exercise2.tests.js`
 * run `npm test` and look at the results
 
-## Bonus Round
-
-### SUPER BONUS EXTRA LEVEL
+## SUPER BONUS EXTRA LEVEL
 
 Woah, did you make it this far? We're going to return to our super trusty `.reduce` method to make something new! We're going to make filterMap.
 

@@ -31,9 +31,9 @@ The only array methods you are allowed to use are:
 
 ### Don'ts
 
-* NO `for` loops
-* NO `while` loops
-* NO `for` `in`
+* :no_entry_sign: `for` loops
+* :no_entry_sign: `while` loops
+* :no_entry_sign: `for` `in`
 
 The only way arrays can be iterated over is reduce
 
@@ -64,11 +64,11 @@ Use array methods like:
 
 ### Don'ts
 
-* NO `for` loops
-* NO `while` loops
-* NO `Array.push`
-* NO `delete` keyword
-* NO mutating your data
+* :no_entry_sign: `for` loops
+* :no_entry_sign: `while` loops
+* :no_entry_sign: `Array.push`
+* :no_entry_sign: `delete` keyword
+* :no_entry_sign: mutating your data
 
 ### Useful Resources
 
